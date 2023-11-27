@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\bin\Debug\DelegatesPart2.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\bin\Debug\DelegatesPart2.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\bin\Debug\DelegatesPart2.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\obj\Debug\DelegatesPart2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\obj\Debug\DelegatesPart2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\obj\Debug\DelegatesPart2.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day16\DelegatesPart2\DelegatesPart2\obj\Debug\DelegatesPart2.pdb
